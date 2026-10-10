@@ -1,0 +1,13 @@
+
+# Secrets and local configuration
+config.php
+.env
+
+# Dependencies and local-only files
+vendor/
+node_modules/
+
+# Logs and temporary files
+*.log
+.DS_Store
+Thumbs.db
